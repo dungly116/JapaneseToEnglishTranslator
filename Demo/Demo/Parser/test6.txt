@@ -1,0 +1,11 @@
+Parser Funciton
+Enter Filename of the File you want to parse:
+test.txt
+KEEP TRACK OF PARSING PROCESS? Y / N: n
+===============PROCESSING STORY======================
+======================PROCESSING BEGINNING STORY=====================
+The current word is apple
+Lexical Error: apple is not valid token
+PROCESSING NOUN
+apple is not connector or noun -none of the alternative fit
+SYNTAX ERROR: UNEXPECTED WORD: apple FOUND IN noun

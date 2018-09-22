@@ -1,0 +1,111 @@
+Enter Input file: test.txt
+The type:  WORD1The word :daigaku
+==========Lexical Error: college is not valid token=====================
+The type:  ERRORThe word :college
+The type:  WORD1The word :kurasu
+==========Lexical Error: class is not valid token=====================
+The type:  ERRORThe word :class
+The type:  WORD1The word :hon
+==========Lexical Error: book is not valid token=====================
+The type:  ERRORThe word :book
+The type:  WORD1The word :tesuto
+==========Lexical Error: test is not valid token=====================
+The type:  ERRORThe word :test
+The type:  WORD1The word :ie
+==========Lexical Error: home* is not valid token=====================
+The type:  ERRORThe word :home*
+The type:  WORD1The word :isu
+==========Lexical Error: chair is not valid token=====================
+The type:  ERRORThe word :chair
+The type:  WORD1The word :seito
+==========Lexical Error: student is not valid token=====================
+The type:  ERRORThe word :student
+The type:  WORD1The word :sensei
+==========Lexical Error: teacher is not valid token=====================
+The type:  ERRORThe word :teacher
+The type:  WORD1The word :tomodachi
+==========Lexical Error: friend is not valid token=====================
+The type:  ERRORThe word :friend
+The type:  WORD1The word :jidoosha
+==========Lexical Error: car is not valid token=====================
+The type:  ERRORThe word :car
+The type:  WORD1The word :gyuunyuu
+==========Lexical Error: milk is not valid token=====================
+The type:  ERRORThe word :milk
+The type:  WORD1The word :sukiyaki
+The type:  WORD1The word :tenpura
+The type:  WORD1The word :sushi
+The type:  WORD1The word :biiru
+==========Lexical Error: beer is not valid token=====================
+The type:  ERRORThe word :beer
+The type:  WORD1The word :sake
+The type:  WORD1The word :tokyo
+The type:  WORD1The word :kyuushuu
+==========Lexical Error: Osaka is not valid token=====================
+The type:  ERRORThe word :Osaka
+The type:  WORD1The word :choucho
+==========Lexical Error: butterfly is not valid token=====================
+The type:  ERRORThe word :butterfly
+The type:  WORD1The word :an
+The type:  WORD1The word :idea
+The type:  WORD1The word :yasashii
+==========Lexical Error: easy is not valid token=====================
+The type:  ERRORThe word :easy
+The type:  WORD1The word :muzukashii
+==========Lexical Error: difficult is not valid token=====================
+The type:  ERRORThe word :difficult
+The type:  WORD1The word :ureshii
+==========Lexical Error: pleased is not valid token=====================
+The type:  ERRORThe word :pleased
+The type:  WORD1The word :shiawase
+==========Lexical Error: happy is not valid token=====================
+The type:  ERRORThe word :happy
+The type:  WORD1The word :kanashii
+==========Lexical Error: sad is not valid token=====================
+The type:  ERRORThe word :sad
+The type:  WORD1The word :omoi
+==========Lexical Error: heavy is not valid token=====================
+The type:  ERRORThe word :heavy
+The type:  WORD1The word :oishii
+==========Lexical Error: delicious is not valid token=====================
+The type:  ERRORThe word :delicious
+The type:  WORD1The word :tennen
+==========Lexical Error: natural is not valid token=====================
+The type:  ERRORThe word :natural
+The type:  WORD2The word :nakI
+==========Lexical Error: cry is not valid token=====================
+The type:  ERRORThe word :cry
+The type:  WORD2The word :ikI
+==========Lexical Error: go* is not valid token=====================
+The type:  ERRORThe word :go*
+The type:  WORD2The word :tabE
+==========Lexical Error: eat is not valid token=====================
+The type:  ERRORThe word :eat
+The type:  WORD2The word :ukE
+==========Lexical Error: take* is not valid token=====================
+The type:  ERRORThe word :take*
+The type:  WORD2The word :kakI
+==========Lexical Error: write is not valid token=====================
+The type:  ERRORThe word :write
+The type:  WORD2The word :yomI
+==========Lexical Error: read is not valid token=====================
+The type:  ERRORThe word :read
+The type:  WORD2The word :nomI
+==========Lexical Error: drink is not valid token=====================
+The type:  ERRORThe word :drink
+The type:  WORD2The word :agE
+==========Lexical Error: give is not valid token=====================
+The type:  ERRORThe word :give
+The type:  WORD2The word :moraI
+==========Lexical Error: receive is not valid token=====================
+The type:  ERRORThe word :receive
+The type:  WORD2The word :butsI
+==========Lexical Error: hit is not valid token=====================
+The type:  ERRORThe word :hit
+The type:  WORD2The word :kerI
+==========Lexical Error: kick is not valid token=====================
+The type:  ERRORThe word :kick
+The type:  WORD2The word :shaberI
+==========Lexical Error: talk is not valid token=====================
+The type:  ERRORThe word :talk
+The type:  EOFMThe word :eofm

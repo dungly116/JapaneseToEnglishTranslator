@@ -1,0 +1,27 @@
+Parser Funciton
+Enter Filename of the File you want to parse:
+test.txt
+KEEP TRACK OF PARSING PROCESS? Y / N: n
+===============PROCESSING STORY======================
+======================PROCESSING BEGINNING STORY=====================
+The current word is soshite
+Matched CONNECTOR
+CONNECTOR: Then
+PROCESSING NOUN
+The current word is watashi
+Matched PRONOUN
+The current word is wa
+Matched SUBJECT
+ACTOR: I/me
+PROCESSING AFTER SUBJECT
+The current word is rika
+PROCESSING NOUN
+Matched WORD1
+PROCESSING AFTER NOUN
+The current word is desu
+PROCESSING BE
+Matched IS
+DESCRIPTION: rika
+TENSE: IS
+The current word is ne
+SYNTAX ERROR: EXPECTING PERIOD BUT FOUND ne

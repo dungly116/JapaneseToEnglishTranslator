@@ -1,0 +1,190 @@
+Parser Funciton
+Enter Filename of the File you want to parse:
+test.txt
+KEEP TRACK OF PARSING PROCESS? Y / N: N
+===============PROCESSING STORY======================
+======================PROCESSING BEGINNING STORY=====================
+The current word is watashi
+PROCESSING NOUN
+Matched PRONOUN
+The current word is wa
+Matched SUBJECT
+ACTOR: I/me
+PROCESSING AFTER SUBJECT
+The current word is rika
+PROCESSING NOUN
+Matched WORD1
+PROCESSING AFTER NOUN
+The current word is desu
+PROCESSING BE
+Matched IS
+DESCRIPTION: rika
+TENSE: IS
+The current word is .
+Matched PERIOD
+The current word is watashi
+======================PROCESSING BEGINNING STORY=====================
+PROCESSING NOUN
+Matched PRONOUN
+The current word is wa
+Matched SUBJECT
+ACTOR: I/me
+PROCESSING AFTER SUBJECT
+The current word is sensei
+PROCESSING NOUN
+Matched WORD1
+PROCESSING AFTER NOUN
+The current word is desu
+PROCESSING BE
+Matched IS
+DESCRIPTION: sensei
+TENSE: IS
+The current word is .
+Matched PERIOD
+The current word is rika
+======================PROCESSING BEGINNING STORY=====================
+PROCESSING NOUN
+Matched WORD1
+The current word is wa
+Matched SUBJECT
+ACTOR: rika
+PROCESSING AFTER SUBJECT
+The current word is gohan
+PROCESSING NOUN
+Matched WORD1
+PROCESSING AFTER NOUN
+The current word is o
+Matched OBJECT
+OBJECT: gohan
+The current word is tabE
+PROCESSING VERB
+Matched WORD2
+ACTION: tabE
+PROCESSING TENSE
+The current word is masu
+Matched VERB
+TENSE: VERB
+The current word is .
+Matched PERIOD
+The current word is watashi
+======================PROCESSING BEGINNING STORY=====================
+PROCESSING NOUN
+Matched PRONOUN
+The current word is wa
+Matched SUBJECT
+ACTOR: I/me
+PROCESSING AFTER SUBJECT
+The current word is tesuto
+PROCESSING NOUN
+Matched WORD1
+PROCESSING AFTER NOUN
+The current word is o
+Matched OBJECT
+OBJECT: tesuto
+The current word is seito
+PROCESSING NOUN
+Matched WORD1
+The current word is ni
+Matched DESTINATION
+TO: seito
+PROCESSING VERB
+The current word is agE
+Matched WORD2
+ACTION: agE
+PROCESSING TENSE
+The current word is mashita
+Matched VERBPAST
+TENSE: VERBPAST
+The current word is .
+Matched PERIOD
+The current word is shikashi
+======================PROCESSING BEGINNING STORY=====================
+Matched CONNECTOR
+CONNECTOR: However
+PROCESSING NOUN
+The current word is seito
+Matched WORD1
+The current word is wa
+Matched SUBJECT
+ACTOR: seito
+PROCESSING AFTER SUBJECT
+The current word is yorokobI
+PROCESSING VERB
+Matched WORD2
+ACTION: yorokobI
+PROCESSING TENSE
+The current word is masendeshita
+Matched VERBPASTNEG
+TENSE: VERBPASTNEG
+The current word is .
+Matched PERIOD
+The current word is dakara
+======================PROCESSING BEGINNING STORY=====================
+Matched CONNECTOR
+CONNECTOR: Therefore
+PROCESSING NOUN
+The current word is watashi
+Matched PRONOUN
+The current word is wa
+Matched SUBJECT
+ACTOR: I/me
+PROCESSING AFTER SUBJECT
+The current word is kanashii
+PROCESSING NOUN
+Matched WORD1
+PROCESSING AFTER NOUN
+The current word is deshita
+PROCESSING BE
+Matched WAS
+DESCRIPTION: kanashii
+TENSE: WAS
+The current word is .
+Matched PERIOD
+The current word is soshite
+======================PROCESSING BEGINNING STORY=====================
+Matched CONNECTOR
+CONNECTOR: Then
+PROCESSING NOUN
+The current word is rika
+Matched WORD1
+The current word is wa
+Matched SUBJECT
+ACTOR: rika
+PROCESSING AFTER SUBJECT
+The current word is toire
+PROCESSING NOUN
+Matched WORD1
+PROCESSING AFTER NOUN
+The current word is ni
+Matched DESTINATION
+TO: toire
+PROCESSING VERB
+The current word is ikI
+Matched WORD2
+ACTION: ikI
+PROCESSING TENSE
+The current word is mashita
+Matched VERBPAST
+TENSE: VERBPAST
+The current word is .
+Matched PERIOD
+The current word is rika
+======================PROCESSING BEGINNING STORY=====================
+PROCESSING NOUN
+Matched WORD1
+The current word is wa
+Matched SUBJECT
+ACTOR: rika
+PROCESSING AFTER SUBJECT
+The current word is nakI
+PROCESSING VERB
+Matched WORD2
+ACTION: nakI
+PROCESSING TENSE
+The current word is mashita
+Matched VERBPAST
+TENSE: VERBPAST
+The current word is .
+Matched PERIOD
+The current word is eofm
+=====END-Prasering=====
